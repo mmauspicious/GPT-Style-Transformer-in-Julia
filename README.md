@@ -1,1 +1,1 @@
-I have created this repository containing a series of Jupyter Notebooks where I implement GPT-style transformer models using the Julia programming language.
+I have created this repository containing a series of Jupyter Notebooks where I implement GPT-style transformer models using the Julia programming language. I designed these notebooks as educational resources for anyone interested in understanding and building transformer architectures from scratch in Julia.
